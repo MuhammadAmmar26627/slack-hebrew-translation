@@ -1,0 +1,1 @@
+# slack-hebrew-translation
